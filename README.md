@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:000000&height=200&section=header&text=901%20Wysız&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=OSINT%20Tool&descAlignY=55&descSize=20" width="100%">
+</div>
 
 <!--
 **901Wysiz-osint/901Wysiz-osint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
